@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0A18"/><stop offset="1" stop-color="#1C1336"/></linearGradient>
+<linearGradient id="rim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.45"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.05"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0.25"/></linearGradient>
+<filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="50"/></filter>
+<style>.t{font-family:'SF Pro Display','Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif}</style></defs>
+<rect width="1200" height="520" rx="28" fill="url(#bg)"/>
+<circle cx="200" cy="420" r="160" fill="#6E4BFF" opacity="0.35" filter="url(#soft)"/>
+<circle cx="1040" cy="110" r="150" fill="#FF6A3D" opacity="0.25" filter="url(#soft)"/>
+<rect x="48" y="44" width="352" height="200" rx="34" fill="#FFFFFF" fill-opacity="0.06" stroke="url(#rim)" stroke-width="1.4"/>
+<circle cx="104" cy="106" r="30" fill="#FFFFFF" fill-opacity="0.10"/>
+<text x="104" y="117" text-anchor="middle" font-size="30">🧊</text>
+<text x="76" y="176" class="t" font-size="27" font-weight="700" fill="#FFFFFF">Liquid Glass</text>
+<text x="76" y="210" class="t" font-size="18" font-weight="400" fill="#FFFFFF" fill-opacity="0.62">Real glass with light and refraction</text>
+<rect x="432" y="44" width="352" height="200" rx="34" fill="#FFFFFF" fill-opacity="0.06" stroke="url(#rim)" stroke-width="1.4"/>
+<circle cx="488" cy="106" r="30" fill="#FFFFFF" fill-opacity="0.10"/>
+<text x="488" y="117" text-anchor="middle" font-size="30">🎛️</text>
+<text x="460" y="176" class="t" font-size="27" font-weight="700" fill="#FFFFFF">Control Center</text>
+<text x="460" y="210" class="t" font-size="18" font-weight="400" fill="#FFFFFF" fill-opacity="0.62">Controls, player and notifications</text>
+<rect x="816" y="44" width="352" height="200" rx="34" fill="#FFFFFF" fill-opacity="0.06" stroke="url(#rim)" stroke-width="1.4"/>
+<circle cx="872" cy="106" r="30" fill="#FFFFFF" fill-opacity="0.10"/>
+<text x="872" y="117" text-anchor="middle" font-size="30">🔒</text>
+<text x="844" y="176" class="t" font-size="27" font-weight="700" fill="#FFFFFF">Lock Screen</text>
+<text x="844" y="210" class="t" font-size="18" font-weight="400" fill="#FFFFFF" fill-opacity="0.62">Glass clocks, widgets, always-on</text>
+<rect x="48" y="276" width="352" height="200" rx="34" fill="#FFFFFF" fill-opacity="0.06" stroke="url(#rim)" stroke-width="1.4"/>
+<circle cx="104" cy="338" r="30" fill="#FFFFFF" fill-opacity="0.10"/>
+<text x="104" y="349" text-anchor="middle" font-size="30">🔔</text>
+<text x="76" y="408" class="t" font-size="27" font-weight="700" fill="#FFFFFF">Notifications</text>
+<text x="76" y="442" class="t" font-size="18" font-weight="400" fill="#FFFFFF" fill-opacity="0.62">A fluid list that presses the clock</text>
+<rect x="432" y="276" width="352" height="200" rx="34" fill="#FFFFFF" fill-opacity="0.06" stroke="url(#rim)" stroke-width="1.4"/>
+<circle cx="488" cy="338" r="30" fill="#FFFFFF" fill-opacity="0.10"/>
+<text x="488" y="349" text-anchor="middle" font-size="30">📚</text>
+<text x="460" y="408" class="t" font-size="27" font-weight="700" fill="#FFFFFF">App Library</text>
+<text x="460" y="442" class="t" font-size="18" font-weight="400" fill="#FFFFFF" fill-opacity="0.62">Smart folders and instant search</text>
+<rect x="816" y="276" width="352" height="200" rx="34" fill="#FFFFFF" fill-opacity="0.06" stroke="url(#rim)" stroke-width="1.4"/>
+<circle cx="872" cy="338" r="30" fill="#FFFFFF" fill-opacity="0.10"/>
+<text x="872" y="349" text-anchor="middle" font-size="30">✨</text>
+<text x="844" y="408" class="t" font-size="27" font-weight="700" fill="#FFFFFF">Comet AI</text>
+<text x="844" y="442" class="t" font-size="18" font-weight="400" fill="#FFFFFF" fill-opacity="0.62">An assistant built into the Home</text>
+</svg>
